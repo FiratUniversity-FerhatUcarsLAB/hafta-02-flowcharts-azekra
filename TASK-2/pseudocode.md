@@ -1,11 +1,18 @@
-
 Başlat
-Kullanıcı ürün seçer
+Kullanıcı ürünleri inceler
+Ürün seçilir
 Ürün sepete eklenir
-Kullanıcı ödeme sayfasına gider
+Kullanıcı sepete gider
+Sepet içeriği görüntülenir
+Kullanıcı ödeme sayfasına geçer
 Ödeme bilgileri girilir
-Eğer ödeme başarılıysa:
-    Sipariş onaylanır
+Ödeme doğruluğu kontrol edilir
+Eğer bilgiler geçerliyse:
+    Ödeme işlemi gerçekleştirilir
+    Eğer ödeme başarılıysa:
+        Sipariş onaylanır
+    Aksi halde:
+        Ödeme hatası mesajı gösterilir
 Aksi halde:
-    Hata mesajı gösterilir
+    Bilgi eksikliği uyarısı gösterilir
 Bitir
