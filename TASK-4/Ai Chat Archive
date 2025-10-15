@@ -1,0 +1,14 @@
+Merhaba, bana "Üniversite Ders Kayıt" için
+Graphviz .dot kodu ve pseudocode yazarmısın ?
+
+--------------------------------------------------------
+
+Tamam, hemen hazırlarım. Bir kaç soru:
+
+Önkoşul kontrolü (prerequisite) eklememizi ister misin?
+
+Ders çakışması kontrolü (zaman çakışması) olsun mu?
+
+Kontenjan doluysa bekleme listesi mekanizması gerekir mi?
+Bunları söylersen tam istenen akışı yazıyorum; eğer cevap yoksa temel akışla 
+(ders seç → kontrol → onay) hazırlıyorum.
