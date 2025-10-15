@@ -1,5 +1,4 @@
-İsim - Soy isim : ENES ZUKRA
-Öğrenci No: 250541616
+ENES ZUKRA : 250541616
 
 sistemin kısa açıklaması (maks. 5-6 satır)
 
