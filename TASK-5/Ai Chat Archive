@@ -1,0 +1,14 @@
+Merhaba, bana "Akıllı Ev Güvenlik" için
+Graphviz .dot kodu ve pseudocode verir misin?
+
+............................
+
+Tamam, hazırlarım. Netleştirmek için birkaç soru:
+
+Sensör tipleri neler (kapı/pencere/sistem hareket/smoke)?
+
+Alarm tetiklenince bildirim nasıl olsun (push/SMS/arama)?
+
+Otomatik uyarı sonrası polis/guvenlik arama entegrasyonu istenir mi?
+Bu bilgileri verirsen daha detaylı .dot ve pseudocode hazırlıyorum; yoksa 
+genel bir alarm tetikleme → doğrulama → uyarı akışı yaparım.
