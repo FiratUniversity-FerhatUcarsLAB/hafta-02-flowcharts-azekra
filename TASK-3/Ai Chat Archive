@@ -1,0 +1,13 @@
+Merhaba, bana "Hastane Randevu Sistemi" için Graphviz .dot kodu 
+ve pseudocode detaylı kod yazarmısın ?
+
+---- 
+
+Tamam, yapacağım. Netleştirmek için:
+
+Randevu almak için hasta kayıtlı olmak zorunda mı?
+
+Uzmana göre mı randevu yoksa poliklinik seçimiyle mi?
+
+Randevu iptali/erteleme ve hatırlatma (SMS/e-posta) istiyor musun?
+Cevap verirsen, bu özellikleri dahil ederek .dot ve pseudocode hazırlıyorum. Yoksa basit alınma/iptal/onay akışı hazırlarım.
