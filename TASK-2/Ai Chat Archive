@@ -1,0 +1,13 @@
+Merhaba, bana "Online Alışveriş Sepeti" için 
+Graphviz .dot kodu ve pseudocode verir misin?
+
+--------------------
+Tamam, hazırlayacağım. Birkaç kısa soru:
+
+Kullanıcı oturum açma gereksinimi olacak mı (misafir alımı)?
+
+Ödeme seçenekleri (kredi kartı / kapıda ödeme / PayPal) hangilerini istiyorsun?
+
+Stok kontrolü ve kupon/indirim mekanizması eklememizi ister misin?
+Bunları söylersen tam olarak istediğin şekilde yaparım; yoksa temel akış
+(giriş → ürün ekle → ödeme → onay) ile hazırlıyorum.
